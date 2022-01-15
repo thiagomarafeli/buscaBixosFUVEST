@@ -5,7 +5,7 @@ O programa procura os nomes dos aprovados em determinado curso (escolhido pelo u
 Este é apenas um código que fiz no Python Notebook com o objetivo de poder praticar Python e Scraping
 
 Alguns pontos importantes sobre o programa:
-- Código aparenta funcionar até a lista de 2018
+- Código aparenta funcionar da lista de 2018 em diante
 - O arquivo da relação de cursos deve ser um JSON no formato de dicionário Python
     - ```<código_da_disciplina>: <nome_da_disciplina>```
 - O arquivo da relação de aprovados deve ser um PDF oficial da Fuvest (não é a lista do enem), que pode ser obtido no site da [Fuvest](fuvest.br)
