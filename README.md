@@ -3,7 +3,10 @@ Procura por bixos na lista de aprovados da FUVEST, procurando os nomes dos aprov
 
 Este é apenas um código que fiz no Python Notebook com o objetivo de poder praticar Python e Scraping
 
-Alguns pontos importantes sobre o programa:
+## Requisito: PyPDF2
+Se não instalado, o mesmo pode ser instalado via ```pip install PyPDF2```
+
+### Alguns pontos importantes sobre o programa:
 - Código aparenta funcionar da lista de 2018 em diante
 - O arquivo da relação de cursos deve ser um JSON no formato de dicionário Python, mas é opcional
     - ```<código_da_disciplina>: <nome_da_disciplina>```
